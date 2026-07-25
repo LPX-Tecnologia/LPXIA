@@ -16,3 +16,4 @@ LPX-NEXUS is a starter monorepo structure for a full-stack AI platform with a ba
 1. Review the backend and frontend package manifests.
 2. Add your application code under the relevant folders.
 3. Use Docker Compose for local orchestration.
+# LPXIA
